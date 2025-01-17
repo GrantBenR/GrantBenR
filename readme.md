@@ -2,7 +2,7 @@
 ## I love software development of all kinds and am currently self-teaching reverse engineering!
 # Highlights:
 ## <a href="https://github.com/GrantBenR/YsViDecomp">Ys Vi The Ark of Napishtim Decompilation</a>
-<img style="width:300px; display:block; padding:inherit;" alt="Thumbnail of Ys Vi The Ark of Napishtim with the full logo, Adol, Olha, and the black ark in the background" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312540/capsule_616x353.jpg?t=1732664294"></img>
+<div style="width:100%; display:inline-block;"><img style="width:300px; display:block; margin:auto;" alt="Thumbnail of Ys Vi The Ark of Napishtim with the full logo, Adol, Olha, and the black ark in the background" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312540/capsule_616x353.jpg?t=1732664294"></img></div>
 
 A repository for my Ghidra reverse engineering endeavour into the DX8 English Steam release of <i>Ys Vi</i>. As of January 2025, I have achieved full function classification, and am working to make modifications to the game and to make function definitions and labels more detailed and complete.
 ## <a href="https://github.com/GrantBenR/ITSC-2024-Github-Extension-Project">Github Timer Extension Project</a>
