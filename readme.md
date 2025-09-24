@@ -12,7 +12,7 @@ A repository for my Ghidra reverse engineering endeavour into the DX8 English St
 <a href="https://github.com/nfairweather93"> Our </a> submission for the Wright State 2025 Hackathon: Jukebox Jerk. It is a spotify bot that I programmed in Java that manages authentication and user data from the Spotify API for the purpose of making fun of users. Though perhaps a problem better suited for Python, we came out with a commendable, functional bot.
 
 ## <a href="https://github.com/GrantBenR/ITSC-2024-Github-Extension-Project">Github Timer Extension Project</a>
-A project I led creating timer extension for Github issues that allows users to manage the amount of time spent on a given issue through a built in timer. Timer data will be written to a unique log comment for the user, and recorded in a sqlite or postgres database on our node.js server. The data is visualized via chart.js and pug pages on the server.
+A project I led development of: a timer extension for Github issues that allows users to manage the amount of time spent on a given issue through a built in timer. Timer data is written to a unique log comment for the user, and recorded in a sqlite or postgres database on a node.js server. The data is visualized via chart.js and pug pages on the server.
 ### My old/alternate accounts are linked below:
 * <a href="https://github.com/ScarfKid188">Old Highschool/Unity Game Dev Work</a>
 * <a href="https://github.com/GrantRynders">University of Cincinnati Work Up Until Summer 2024</a>
