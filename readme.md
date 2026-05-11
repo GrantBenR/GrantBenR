@@ -1,4 +1,4 @@
-## Hi, this is the main account of Grant Rynders, a Junior in Computer Science at Wright State University.
+## Hi, this is the main account of Grant Rynders, a Senior in Computer Science at Wright State University.
 ### I love software development of all kinds and am currently pursuing a hobby reverse engineering project!
 ### Jesus is Lord of my life. <a href="https://github.com/GrantBenR/Testimony"> Check out my testimony</a>
 
