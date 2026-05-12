@@ -13,6 +13,8 @@ A repository for my Ghidra reverse engineering endeavour into the DX8 English St
 I worked on this project with several students in CEG4110 in Spring 2026. CanCook is a webapp that allows users to digitally order ingredients from stores and create and share recipes with other users. I was primarily responsible for the flask backend api, postgres database design and implementation, and some of the typescript frontend services.
 
 ## <a href="https://github.com/nfairweather93/2026_Hackathon">2026 Hackathon - Wright State Faculty Budget Balancer</a>
+## <a href="https://github.com/AMcGohan/lambsauce-cancook">CEG4110 CanCook: Grocery and Recipe Manager</a>
+<div style="width:100%; display:inline-block;"><img style="width:300px; display:block; margin:auto;" alt="Screenshot of recipes page for cancook" src="/images/hackathon2026.png"></img></div>
 <a href="https://github.com/nfairweather93"> Our </a> submission for the Wright State 2026 Hackathon: Faculty Budget Balancer. It is a flask web app that uses ratemyprofessor and public university salary data to provide a salary rating for professors at Wright State University. I created the webscrapers for gathering data as well as the postgres and flask backend components.
 
 ## <a href="https://github.com/GrantBenR/2025Hackathon">2025 Hackathon - Spotify Discord Bot</a>
