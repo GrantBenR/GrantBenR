@@ -22,6 +22,9 @@ I worked on this project with several students in CEG4110 in Spring 2026. CanCoo
 ## <a href="https://github.com/GrantBenR/ITSC-2024-Github-Extension-Project">Github Timer Extension Project</a>
 A project I led development of: a timer extension for Github issues that allows users to manage the amount of time spent on a given issue through a built in timer. Timer data is written to a unique log comment for the user, and recorded in a sqlite or postgres database on a node.js server. The data is visualized via chart.js and pug pages on the server.
 
+## <a href="https://homepages.uc.edu/~ryndergb/FinalProject/index.html">Kroger Cashiering for Humans</a>
+A website I created to make up for the lack of proper cashiering training materials provided by Kroger for its associates. This website was also created as part of the Final Project for IT2040C Fundamentals of Web Development at the University of Cincinnati using only HTML and CSS. I cannot confirm that all the information in this guide is correct as of 2025.
+
 ### My old/alternate accounts are linked below:
 * <a href="https://github.com/ScarfKid188">Old Highschool/Unity Game Dev Work</a>
 * <a href="https://github.com/GrantRynders">University of Cincinnati Work Up Until Summer 2024</a>
