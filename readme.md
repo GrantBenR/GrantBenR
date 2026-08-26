@@ -2,6 +2,8 @@
 ### I love software development of all kinds and am currently pursuing a hobby reverse engineering project!
 ### Jesus is Lord of my life. [Check out my testimony!](https://github.com/GrantBenR/Testimony "")
 
+### Check out my website: [https://grantbenr.github.io/](https://grantbenr.github.io/ "")
+
 # Highlights:
 ## [Ys Vi The Ark of Napishtim Decompilation](https://github.com/GrantBenR/YsViDecomp "")
 <div style="width:100%; display:inline-block;"><img style="width:300px; display:block; margin:auto;" alt="Screenshot of recipes page for cancook" src="/images/ysvi.jpg"></img></div>
